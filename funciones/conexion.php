@@ -1,8 +1,8 @@
 <?php
     $servidor = "localhost";
     $usuario = "root";
-    $password = "";
-    $db = "PrepaProyecto";
+    $password = "12345";
+    $db = "prepa18122021";
 
     $conexion = mysqli_connect(
         $servidor,
